@@ -1,0 +1,13 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Node (only used by tools/gen_guide.js)
+node_modules/
+package-lock.json
+
+# Local build/preview artifacts
+*.pdf
+*.log
